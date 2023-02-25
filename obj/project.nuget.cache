@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "tbXgacFrkOMgHPIhA8HTb1C6rCFlr/hH2F/zdGKWf4hTU54Kx5BmYdbPXOnZxKs0z1oX5snUl4wmvcyyiru6Pw==",
+  "dgSpecHash": "q1lg6zkihcDEKgGiuBZ6Q+GgQRXkZwc3gfgfItIJ/gcy9CrYlu+TX5I8QOJZ6dHJrj+DC83fyPwaVBgG0zRbVg==",
   "success": true,
   "projectFilePath": "C:\\Users\\georg\\Documents\\Code\\api-AdventureWorks\\api-AdventureWorks.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.3\\microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
   "logs": []
 }

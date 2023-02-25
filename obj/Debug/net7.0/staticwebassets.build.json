@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GVn6YKbYDT9d+Bg/f1vI9Kh8bLEzmWWCrwjJcl3v8Ks=",
+  "Source": "api-AdventureWorks",
+  "BasePath": "_content/api-AdventureWorks",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
