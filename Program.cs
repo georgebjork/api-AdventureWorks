@@ -1,9 +1,10 @@
+using api_AdventureWorks;
 
+const string CorsPolicyName = "_myCorsPolicy";
 
 var builder = WebApplication.CreateBuilder(args);
 
 // This handles our CORS policy
-const string CorsPolicyName = "_myCorsPolicy";
 builder.Services.AddCors(options => options.AddPolicy(name: CorsPolicyName, builder => builder.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod()));
 builder.Services.AddEndpointsApiExplorer();
 
