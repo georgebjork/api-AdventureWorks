@@ -19,7 +19,7 @@ public static class Database {
         builder.Password = "";     
         builder.InitialCatalog = "AdventureWorksLT2019";
         
-        return builder.ConnectionString;
+        return "Data Source=localhost\\SQLEXPRESS;Initial Catalog=AdventureWorksLT2019;Integrated Security=True;Persist Security Info=False;User ID=;Password=******;Pooling=False;Min Pool Size=0;Max Pool Size=100;Multiple Active Result Sets=False;Replication=False;Connect Timeout=15;Encrypt=True;Trust Server Certificate=True;Load Balance Timeout=0;Packet Size=8000;Type System Version=Latest;Application Name=sqlops-connection-string;Application Intent=ReadWrite;Multi Subnet Failover=False;Connect Retry Count=1;Connect Retry Interval=10;Column Encryption Setting=Disabled";
     }
 
     /// <summary>

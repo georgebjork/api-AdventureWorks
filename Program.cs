@@ -1,4 +1,5 @@
 using api_AdventureWorks;
+using api_AdventureWorks.routes;
 
 const string CorsPolicyName = "_myCorsPolicy";
 
@@ -31,6 +32,7 @@ if (app.Environment.IsDevelopment())
 }
 
 // Here is our api routes
+app.CustomerRoutes();
 
 // This will enable cors 
 app.UseCors();
